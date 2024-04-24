@@ -1,12 +1,12 @@
 FileName, CommitSha
-Hunting Query/Black Cat Ransomware.json,84f92ddffe6b0f8ad2d690fb6a5598b3502bca35
-Automation Rule/Run ChatGPT Playbook.json,b2682383abd4790046e73b8e23d73ac9b7ff176a
-Playbook/MicrosoftSentinel-ChatGPT-Playbook (1).json,328f46ab8b5e1eafa93513b1e9d321c7ca9326f8
-Analytical Rule/Azure+Diagnostic+settings+removed+from+a+resource.json,c7accd2d5e54b8c03aff6307f635b88463bb068f
-Analytical Rule/User+agent+search+for+log4j+exploitation+attempt.json,f919b0ab7db2b52a01c2f3f3aa848530d2bf63cb
-Hunting Query/BlackCatRansowmare.json,ed5508684ed18ea3a0c5f3e8eb1b2ce3a4468e74
-Analytical Rule/Log4j+vulnerability+exploit.json,91917d9c313c783a8a6d202b9176fffabd28c98f
 Parser/Repository Parser.json,603f1f4c56799581572874f46b4a9c10a097c333
-Playbook/Microsft-Sentinel-ChatGPT-Playbook.json,328f46ab8b5e1eafa93513b1e9d321c7ca9326f8
+Analytical Rule/Log4j+vulnerability+exploit.json,91917d9c313c783a8a6d202b9176fffabd28c98f
 Workbook/Data Collection.json,9f48051687e82018884626aeff2401dc96f3fc09
+Playbook/MicrosoftSentinel-ChatGPT-Playbook (1).json,328f46ab8b5e1eafa93513b1e9d321c7ca9326f8
+Hunting Query/Black Cat Ransomware.json,84f92ddffe6b0f8ad2d690fb6a5598b3502bca35
+Hunting Query/BlackCatRansowmare.json,ed5508684ed18ea3a0c5f3e8eb1b2ce3a4468e74
+Automation Rule/Run ChatGPT Playbook.json,b2682383abd4790046e73b8e23d73ac9b7ff176a
+Analytical Rule/Azure+Diagnostic+settings+removed+from+a+resource.json,c7accd2d5e54b8c03aff6307f635b88463bb068f
+Playbook/Microsft-Sentinel-ChatGPT-Playbook.json,328f46ab8b5e1eafa93513b1e9d321c7ca9326f8
+Analytical Rule/User+agent+search+for+log4j+exploitation+attempt.json,f919b0ab7db2b52a01c2f3f3aa848530d2bf63cb
 
